@@ -1,0 +1,53 @@
+h001,Disability insurance,health,20000,4150.11,2515230.11
+h002,Injury cover,health,20000,3270.11,6234290.11
+h003,Flexible spending account,health,20000,8100.11,5726650.11
+h004,Health savings account,health,20000,5300.11,1387580.11
+h005,Long term care insurance,health,20000,9570.11,3899260.11
+h006,Medical savings account,health,20000,4030.11,9624370.11
+l001,short-term life insurance I,life,10000,6670.11,2495140.11
+l002,short-term life insurance II,life,10000,8130.11,3200310.11
+l003,short-term life insurance III,life,10000,7790.11,1101770.11
+l004,short-term life insurance VI,life,10000,3230.11,7582500.11
+l005,short-term life insurance V,life,10000,3560.11,4172970.11
+l006,long-term life insurance I,life,90000,9010.11,5041400.11
+l007,long-term life insurance II,life,90000,3460.11,1645000.11
+l008,long-term life insurance III,life,90000,1410.11,964760.11
+l009,long-term life insurance VI,life,90000,4290.11,717460.11
+l010,long-term life insurance V,life,90000,9950.11,227790.11
+p001,Boiler insurance,property,50000,7830.11,6551590.11
+p002,Condo insurance,property,50000,5970.11,2698530.11
+p003,Earthquake insurance,property,50000,3970.11,7798200.11
+p004,Home insurance,property,50000,8970.11,3779510.11
+p005,Title insurance,property,50000,9700.11,8358200.11
+p006,Pet insurance,property,50000,2560.11,7259850.11
+p007,Renters' insurance,property,50000,4140.11,9902300.11
+ca01,Fidelity bond,casual,30000,7470.11,8338770.11
+ca02,Liability insurance,casual,30000,3780.11,6039630.11
+ca03,Political risk insurance,casual,30000,3240.11,8638810.11
+ca04,Surety bond,casual,30000,1590.11,864830.11
+ca05,Terrorism insurance,casual,30000,3600.11,5105950.11
+cr01,Trade credit insurance I,credit,40000,9710.11,9070350.11
+cr02,Trade credit insurance II,credit,40000,3090.11,9958690.11
+cr03,Trade credit insurance III,credit,40000,4490.11,8922980.11
+cr04,Trade credit insurance VI,credit,40000,6640.11,612980.11
+cr05,Trade credit insurance V,credit,40000,9010.11,980330.11
+cr06,payment protection insurance I,credit,40000,9590.11,909940.11
+cr07,payment protection insurance II,credit,40000,2460.11,3805960.11
+cr08,payment protection insurance III,credit,40000,5360.11,8780840.11
+cr09,payment protection insurance VI,credit,40000,9540.11,1792970.11
+cr10,payment protection insurance V,credit,40000,6980.11,7737200.11
+cr11,credit derivative insurance I,credit,60000,8820.11,8502580.11
+cr12,credit derivative insurance II,credit,60000,450.11,7042630.11
+cr13,credit derivative insurance III,credit,60000,290.11,8973100.11
+cr14,credit derivative insurance VI,credit,60000,4900.11,3251040.11
+cr15,credit derivative insurance V,credit,60000,5730.11,2658040.11
+c001,Collision Protection,auto(car),70000,2250.11,1428910.11
+c002,Comprehensive Coverage,auto(car),70000,7270.11,5988530.11
+c003,Liability Protection,auto(car),70000,4260.11,8905980.11
+c004,Medical Payments Coverage,auto(car),70000,5270.11,8432350.11
+c005,Personal Injury Protection,auto(car),70000,2330.11,8028750.11
+c006,Ride-Hailing Coverage,auto(car),70000,8350.11,681720.11
+c007,Rental Car Coverage,auto(car),70000,9090.11,2694590.11
+c008,Roadside Assistance,auto(car),70000,4630.11,1256460.11
+c009,Uninsured Motorists Protection,auto(car),70000,3030.11,5215010.11
+c010,Underinsured Motorists Protection,auto(car),70000,4630.11,7999260.11
