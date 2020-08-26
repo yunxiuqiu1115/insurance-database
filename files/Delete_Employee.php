@@ -29,9 +29,9 @@
 
                                             <?php                               
                                                 require_once('db_setup.php');
-                                                $sql = "USE szhang85_1;";
+                                                $sql = "USE insurance_data;";
                                                 if ($conn->query($sql) === TRUE) {
-                                                // echo "using Database szhang85_1";
+                                                // echo "using Database insurance_data";
                                                 } else {
                                                 echo "Error using  database: " . $conn->error;
                                                 }

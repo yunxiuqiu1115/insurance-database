@@ -31,7 +31,7 @@
 
                                     <?php
                                         require_once('db_setup.php');
-                                        $sql = "USE szhang85_1;";
+                                        $sql = "USE insurance_data;";
                                         if ($conn->query($sql) === TRUE) {
                                         // echo "using Database tbiswas2_company";
                                         } else {
